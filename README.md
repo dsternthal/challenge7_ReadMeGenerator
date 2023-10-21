@@ -8,6 +8,9 @@
 ## Screen Recording of Working README
 ![Screen recording of the Terminal Working to Gather Users input](./Assets/Screen_Recording.mp4)
 
+[![Watch the video]](https://youtu.be/gDCoz6QfVus)
+
+
 ## Contribution
 Danielle Sternthal worked on this with the help of the class recording
 
