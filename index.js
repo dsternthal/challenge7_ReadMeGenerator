@@ -45,7 +45,7 @@ const questions = [
     {
         type:"input",
         message:"Who worked on this project?",
-        name:"contributors"
+        name:"contribution"
     },
     {
         type:"input",
@@ -56,6 +56,10 @@ const questions = [
         type:"input",
         message:"What is the purpose of this project?",
         name:"usage"
+    },
+    {type:"input",
+    message:"How should I test this code?",
+    name:"test"
     },
 ];
 

@@ -80,7 +80,7 @@ ${data.installation}
 ## Usage
 ${data.usage}
 
-##License
+## License
 ${renderLicenseSection(data.license)}
 
 
